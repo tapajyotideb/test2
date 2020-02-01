@@ -1,2 +1,2 @@
 print("hello buddy")
-print("logged")
+print("logged it")
